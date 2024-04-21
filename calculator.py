@@ -1,0 +1,17 @@
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a**b)
+print(a//b)
+
+print("\n")
+
+if(a == b):
+    print("equal")
+else:
+    print("Not equal")
